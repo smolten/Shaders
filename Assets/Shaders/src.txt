@@ -1,0 +1,5 @@
+Transparent shader built from:
+
+https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
+
+https://unity3d.com/learn/tutorials/topics/graphics/fragment-function-and-color-tint
